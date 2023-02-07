@@ -1,0 +1,14 @@
+h1 {
+    font-size: xx-large;
+}
+
+ou colocar pixels
+
+p {
+    font-size: large;
+    font-weight: bold;
+}
+
+h1, p {
+    font-family: 'Anton', sans-serif;
+}

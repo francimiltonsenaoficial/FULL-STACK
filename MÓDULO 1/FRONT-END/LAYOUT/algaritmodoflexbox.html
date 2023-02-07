@@ -1,0 +1,10 @@
+container de 1000px
+
+com 3 filhos dentro de 200px 200px 200px
+com 3 filhos dentro de 500px 500px 500px = 1500 nao cabe dentro do container de 1000px
+
+. {
+    flex-grow: 0; pode crescer 200px 200px 600px = totalizando 1000 px
+    flex-shrink: 1; pode diminuir para caber dentro
+    flex-basis: auto;
+}

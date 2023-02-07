@@ -1,0 +1,18 @@
+//O método reduce() executa uma funçãoreducer (fornecida por você) para cada elemento do array, resultando num único valor de retorno.
+
+//Reducer    recebe 4 parâmetros:
+
+//1-Acumulador(acc)
+//2-Valor Atual(cur)
+//3-Index Atual(idx)
+//4-Array original(src)       
+
+//O valor de retorno da sua função reducer é atribuida ao acumulador. O acumulador,
+//com seu valor atualizado, é repassado para cada iteração subsequente pelo array, que 
+//por fim, se tornará o valor resultante, unico, final.
+
+//[1, 2, 3, 4].reduce(function(acumulador, valor atual, index, array){
+    //return acumulador + valor atual
+//})
+
+//olhar documentção no site mdn

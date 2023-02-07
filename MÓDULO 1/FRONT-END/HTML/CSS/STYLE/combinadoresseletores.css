@@ -1,0 +1,23 @@
+h1 {
+    color: red;
+}
+
+header h1 {
+    color: purple;
+}
+
+div h1 {
+    color: green;
+}
+
+header > h1 {
+    color: yellow;
+}
+
+h1, h2 {
+    color: orange;
+}
+
+h1.vermelho { 
+    color: black;
+}

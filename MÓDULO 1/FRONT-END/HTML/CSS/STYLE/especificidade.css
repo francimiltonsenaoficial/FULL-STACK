@@ -1,0 +1,19 @@
+h1 {
+    color: green;
+}
+
+.vermelho { 
+    color: red;
+}
+
+#azul { 
+    color: blue;
+}
+
+h1#azul.roxo.amarelo {
+    color: orange;
+}
+
+h1 {
+    color: red;
+}

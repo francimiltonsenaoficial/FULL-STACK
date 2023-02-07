@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    padding: 15px 10px;
+}
+
+p {
+    margin: 20px 0px;
+    padding: 0px 10px;
+}
+
+a {
+    padding-left: 10px;
+}

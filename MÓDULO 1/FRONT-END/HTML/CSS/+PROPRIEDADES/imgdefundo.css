@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    background-image: url('imagens/blue-2700749_960_720.jpg');
+    width: 960;
+    height: 1024;
+    background-repeat: no-repeat;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 400px;
+}
+
+h1 {
+    font-family: 'Georgia';
+}
+
+p {
+    font-family: 'Cambria';
+}

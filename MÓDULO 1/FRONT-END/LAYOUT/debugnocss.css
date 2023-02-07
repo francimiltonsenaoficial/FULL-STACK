@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: red;
+    margin-bottom: 30px;
+}
+
+main {
+    background-color: blue;
+}
+
+aside {
+    background-color: green;
+    padding: 30px;
+    outline: 3px solid black;
+}
+
+footer {
+    background-color: yellow;
+}

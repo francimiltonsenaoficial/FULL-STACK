@@ -1,0 +1,1 @@
+//Nunca repetir codigo se a logica é a mesma.

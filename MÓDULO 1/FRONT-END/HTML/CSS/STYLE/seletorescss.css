@@ -1,0 +1,23 @@
+* {
+    background-color: black;
+}
+
+h1 {
+    color: red;
+}
+
+h1.Laranja {
+    color: orange;
+}
+
+h1#roxo {
+    color: purple;
+}
+
+h2 {
+    color: blue;
+}
+
+h1 {
+    background-color: aqua;
+}
